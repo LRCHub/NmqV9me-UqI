@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "物理的サークルクラッシャー",
+  "base_artist": "アザミ",
+  "createdAt": "2026-03-15T13:52:02.155202Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "物理的サークルクラッシャー",
+      "artist": "アザミ",
+      "has_synced": false,
+      "path": "select/pl_01_物理的サークルクラッシャー_アザミ.txt"
+    }
+  ]
+}
